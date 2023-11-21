@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "attachmentFolderPath": ".//ANEXOS",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}
