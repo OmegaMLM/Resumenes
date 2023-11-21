@@ -108,7 +108,6 @@ Busca la mayor satisfacción del cliente eliminando desperdicios que no aportan 
 - Definir valor.
 - Mejora constante.
 -  Determinar la cadena de valor.
-- Mejora constante.
 - Crear un flujo dinámico, para generar siempre valor.
 - Generar un tirón al cliente.
 
@@ -118,10 +117,10 @@ Busca la mayor satisfacción del cliente eliminando desperdicios que no aportan 
 - ***Satisfacción de los clientes:*** Se tiene mas recursos y tiempo. El producto cumple con las necesidades y expectativas del usuario.
 - ***Menos riesgo:*** Decisiones mejor fundamentadas ya que se tomas sobre datos.
 - ***Reducción del plazo de ejecución y act. sin valor:*** Disponibilidad inmediata de los productos y se reducen artículos defectuosos o tiempo de inactividad.
-- ****Trabajo en equipo:*** Todos se sienten parte del proceso y esto reduce la posibilidad de fracaso.
+- ***Trabajo en equipo:*** Todos se sienten parte del proceso y esto reduce la posibilidad de fracaso.
 
 
-## Bootstrap
+## Bootstraping
 Es empezar algo sin recursos o muy pocos, sin ningún tipo de financiación externa.
 
 ### Ventajas
@@ -129,8 +128,8 @@ Es empezar algo sin recursos o muy pocos, sin ningún tipo de financiación exte
 - ***Ahorro:*** Se tiene un control total sobre los costes, por lo que la reducción de costes lleva a una rentabilidad rápida.
 - ***Gestión Inteligente:*** Los recursos se gestionan de manera eficiente, por la falta de estos.
 - ***Creatividad:*** Los emprendedores deben buscar una forma creativa de hacer las cosas, lo que lleva a innovaciones, que los hagan destacar.
-- ***Aprendizaje:*** permite aprender sobre la marca, lo que lleva a un aprendizaje continuo.
-- ***Rentabilidad:*** la inversión baja y la gestión inteligente, genera un cierto beneficio a corto plazo, si se emprende con exito.
+- ***Aprendizaje:*** permite aprender sobre la marcha, lo que lleva a un aprendizaje continuo.
+- ***Rentabilidad:*** la inversión baja y la gestión inteligente, genera un cierto beneficio a corto plazo, si se emprende con éxito.
 
 ### Desventajas:
 ***Riesgo:*** Si el negocio no sale como se esperaba el emprendedor asume todas las perdidas.
@@ -150,5 +149,5 @@ Es empezar algo sin recursos o muy pocos, sin ningún tipo de financiación exte
 - ***Marketing a bajo coste:*** Darse a conocer de una forma que no debamos usar mucho dinero, como por ejemplo redes sociales.
 - ***Adaptación al cambio:*** Se deben tener varias alternativas para reaccionar y adaptarse a cambios.
 - ***Sacrificio:*** Se debe asumir que se va a invertir mucho tiempo, mas del que gustaría.
--***Inversión Inteligente:*** Decidir sabiamente en que área invertir los recursos, como por ejemplo en lugares con un mayor retorno de inversión.
+- ***Inversión Inteligente:*** Decidir sabiamente en que área invertir los recursos, como por ejemplo en lugares con un mayor retorno de inversión.
 - ***Innovacion:*** Buscar maneras diferentes de cumplir los objetivos.

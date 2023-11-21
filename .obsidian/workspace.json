@@ -144,9 +144,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "414485894c3cc17a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -166,13 +174,13 @@
   },
   "active": "30925a68bee4872b",
   "lastOpenFiles": [
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 3 - Industria 4.0.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 4 -Innovacion.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 1 - Emprender.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 2 - Modelo Canvas.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 4 -Innovacion.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 3 - Industria 4.0.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/📚DESARROLLO EMPRENDEDOR📚.md",
     "🏘️HOME.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 1 - Emprender.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/🔗MATEMATICA DISCRETA🔗.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/ANEXOS/Pasted image 20231120143735.png",
     "Kaizen filosofía.md",
