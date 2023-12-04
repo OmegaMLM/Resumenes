@@ -88,6 +88,7 @@ $\begin{equation} x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \end{equation}$
 **Sacar El vértice en X**
 $\frac{-b}{2a}$
 
+
 ---
 ### Función Parabólica
 > $y= a_n x^n + a_{n-1} x^{n-1} + \ldots + a_2 x^2 + a_1 x + a_0$

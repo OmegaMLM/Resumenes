@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a94492bebe7dbd8b",
+        "id": "b7833fd358a71618",
         "type": "tabs",
         "children": [
           {
-            "id": "30925a68bee4872b",
+            "id": "09628a79f48112a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
+                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
+                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
+                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md"
+                "file": "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md"
               }
             }
           },
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +171,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30925a68bee4872b",
+  "active": "09628a79f48112a5",
   "lastOpenFiles": [
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 3- Derivadas.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 2 - Limites.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 0 - Casos de Factoreo y Casos de Racionalización.md",
+    "Lenguaje Latex.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/✖️ANALISIS MATEMATICO✖️.md",
+    "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/📐ALGEBRA📐/Unidad 3 - Teorema de Rouche - Frobenius.md",
+    "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/📐ALGEBRA📐/Unidad 2 - Matrices.md",
+    "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/📐ALGEBRA📐/Unidad 1 - Vectores.md",
+    "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/📐ALGEBRA📐/📐ALGEBRA📐.md",
+    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 4 -Innovacion.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 1 - Emprender.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 2 - Modelo Canvas.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 5 - Metodologías Agiles.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/Unidad 3 - Industria 4.0.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/📚DESARROLLO EMPRENDEDOR📚.md",
     "🏘️HOME.md",
@@ -188,18 +197,9 @@
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✏️ADAPTACION AL ESTUDIO DE NIVEL SUPERIOR II✏️/2023-09-18.md",
     "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/✏️ADAPTACION AL ESTUDIO DE NIVEL SUPERIOR I✏️/Trabajo AENS/Informe de investigacion.md",
     "🔥MATERIAS/1ER AÑO/1ER SEMESTRE/✏️ADAPTACION AL ESTUDIO DE NIVEL SUPERIOR I✏️/✏️ADAPTACION AL ESTUDIO DE NIVEL SUPERIOR I✏️.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 3- Derivadas.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/✖️ANALISIS MATEMATICO✖️.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 2 - Limites.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 1 - Funciones.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/ANEXOS/Derivada grafica.md",
     "🎛GUÍA - Reglas de Markdown y HTML.md",
     "Excalidraw/Drawing 2023-08-17 13.38.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-23 22.50.37.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-17 13.29.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-20 21.35.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-20 13.20.29.excalidraw.md",
-    "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/Unidad 0 - Casos de Factoreo y Casos de Racionalización.md",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/ANEXOS/Pasted image 20231003125828.png",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/📚DESARROLLO EMPRENDEDOR📚/ANEXOS",
     "🔥MATERIAS/1ER AÑO/2DO SEMESTRE/✖️ANALISIS MATEMATICO✖️/ANEXOS/Pasted image 20231001220948.png",

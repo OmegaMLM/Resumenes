@@ -83,6 +83,51 @@ $\frac{y'}{y}=-sen(x) \to y' =-y.sen(x)$<br><br>
 **Remplazo y**
 $y' = -e^{cos(x)}.sen(x)$
 
+
+---
+# Regla de L'Hopital
+
+*Solo funciona par  indeterminaciones $\frac{0}{0},\frac{\infty}{\infty}$ *
+
+ $$\lim_{{x\to x_{0}}}y = \frac{\lim_{x\to {x}}f'(x)}{\lim_{x\to {x}}g'(x)}$$
+
+**Se deriva tanto el de arriba como el de abajo**
+
+Ej:
+	$lim_{x\to -3}\frac{x^{3}+27\to n}{x+3 \to d} = \frac{0}{0}$<br><br>
+	$n' = 3x^2+0$
+	$d' = 1$<br><br>
+$\frac{\lim_{x \to -3}3x^{2}}{\lim_{x \to -3}1}$<br><br>
+$3.(-3)^{2}=3.9=27$
+
+
+## Aplicación derivada
+
+*Se nos da una función*
+$y = x-^{2}+x$
+
+*y un punto*
+$x_{0}= \frac{1}{2}$
+
+1. **Derivamos la función**
+	$y'= -2x+1$
+2. **Remplazamos el punto que nos dieron ($x_0$) en la función derivada**
+	$y(\frac{1}{2})'=-2(\frac{1}{2}=-1+1 = 0 \to m (Pendiente))$
+	**Nos devuelve la pendiente**
+3. **Remplazamos el punto $x_0$ en la función original**
+	$y(\frac{1}{2}= -\frac{1}{2}^{2}+\frac{1}{2}=-1\frac{1}{4}+\frac{1}{2}= \frac{1}{4})$
+	**Ya tenemos los dos puntos $P(\frac{1}{2};\frac{1}{4})$**
+4. **Sacamos la recta tangente**
+	$y-y_0=m.(x-x_0)$
+	$y-(\frac{1}{4})= 0.(x-\frac{1}{2})$
+	$y = \frac{1}{4}+0$
+5.  **Sacamos la normal(Perpendicular)**
+	$y-y_0=-\frac{1}{m}.(x-x_0)$
+	$y-\frac{1}{4}=-\frac{1}{0}.(x-\frac{1}{2})$
+	$y_n = \frac{1}{4}-\infty$
+
+
+
 --- 
 > # <p align = "center"> Tema Siguiente: [[]]</p>
 > # <p align = "center">Índice: [[✖️ANALISIS MATEMATICO✖️]]</p>
