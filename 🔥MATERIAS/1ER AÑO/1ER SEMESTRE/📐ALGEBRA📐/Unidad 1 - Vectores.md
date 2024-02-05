@@ -8,7 +8,7 @@ $$\overrightarrow{A}$$
 Es todo segmento orientado determinado por un par ordenado de puntos *O* y **P**.
 *O* = Origen
 **P** = Extremo del vector
-![[Pasted image 20230720132122.png]]
+![](https://i.ibb.co/WBJ3BKF/Pasted-image-20230720132122.png)
 
 ---
 ### Partes de un vector
@@ -24,7 +24,8 @@ $$\overrightarrow{AB}=\overrightarrow{B}-\overrightarrow{A} = x_{f}-x_{i},\,y_{f
 	$$\mid\widehat{AB}\mid\,=\sqrt{({x_{f}-x_{i})}^{2}+{(y_{f}-y_{i})}^2}$$	
 
 
-![[Pasted image 20230720134425.png]]
+![](https://i.ibb.co/PZ1vYbR/Pasted-image-20230720134425.png)
+
 ---
 ### Operaciones vectoriales
 ***Igualdad de vectores:*** Dos vectores son iguales si su modulo es 0 o si tienen misma dirección, modulo y sentido
@@ -82,7 +83,7 @@ Teniendo $\overrightarrow{V}\,y\,\overrightarrow{U}.$
 
 ---
 ### Sistema de Ecuaciones Lineales
-![[Pasted image 20230720155150.png]]
+![](https://i.ibb.co/cKBh7wC/Pasted-image-20230720155150.png)
 
 ---
 > # <p align = "center"> Tema Siguiente: [[Unidad 2 - Matrices]]</p>

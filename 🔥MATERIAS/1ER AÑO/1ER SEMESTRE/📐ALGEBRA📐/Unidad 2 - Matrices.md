@@ -6,10 +6,10 @@
 ### Partes de una matriz
 
 ***Matriz de coeficientes***
-![[Pasted image 20230720213629.png]]
+![](https://i.ibb.co/WKT7tbn/Pasted-image-20230720213629.png)
 
 ***Matriz Ampliada***
-![[Pasted image 20230720214045.png]]
+![](https://i.ibb.co/P13XLf2/Pasted-image-20230720214045.png)
 
 
 ---
@@ -97,7 +97,7 @@ $$5\begin{pmatrix}2 & 4 & 6  \\ 8 & 3 & 2 \end{pmatrix} = \begin{pmatrix}10 & 20
 	***$$A.B = C$$***
 	$$m_{x}n\, n_{x}l = mxl$$
 
-![[Pasted image 20230721005423.png]]
+![](https://i.ibb.co/pb2DKvw/Pasted-image-20230721005423.png)
 
 ---
 ### Rango de una matriz
@@ -109,10 +109,10 @@ $$5\begin{pmatrix}2 & 4 & 6  \\ 8 & 3 & 2 \end{pmatrix} = \begin{pmatrix}10 & 20
 ---
 ### Determinante de una matriz
 - #### Matriz 2x2
-	![[Pasted image 20230721010805.png]]
+	![](https://i.ibb.co/2SSpwbH/Pasted-image-20230721010750.png)
 
 - #### Matriz 3x3
-	![[Pasted image 20230721011559.png]]
+	![](https://i.ibb.co/8Kq2c3B/Pasted-image-20230721011559.png)
 
 ---
 ### Inversa
@@ -129,7 +129,7 @@ $$5\begin{pmatrix}2 & 4 & 6  \\ 8 & 3 & 2 \end{pmatrix} = \begin{pmatrix}10 & 20
 		$A^{T}= \begin{pmatrix}4 & 2 & 0 \\ 1 & 1 & 1 \\ 3 & 4 & 2\end{pmatrix}$
 	- **3 - Sacar adjunta**
 		*Tapamos fila uno columna 1 y sacamos determinante, luego fila 1 columna 2, etc.*
-		![[Pasted image 20230721144943.png]]
+		![](https://i.ibb.co/vjLpK8J/Pasted-image-20230721144943.png)
 	- **4 - Armamos la adjunta**
 		$Adj(A^{T})=\begin{pmatrix}-2 & -1 & 1 \\ 4 & 8 & 10 \\ 2 & 4 & 2\end{pmatrix}$
 	- **5 - Le cambiamos los signos**
